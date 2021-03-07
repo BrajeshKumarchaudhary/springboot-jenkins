@@ -11,6 +11,6 @@ public class UserController {
 	
 	@GetMapping(value = "getAllUser")
 	public String getAllUser() {
-		return "Brajesh Kumar";
+		return "Brajesh Kumar Software Developer";
 	}
 }
